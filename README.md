@@ -1,6 +1,6 @@
-# NFT-preview-card
+# Order summary card solution
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor]
+This is a solution to the [Order summary card challenge on Frontend Mentor]
 
 ## Table of contents
 
@@ -16,8 +16,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: https://codesandbox.io/s/romantic-fog-eozw6h?file=/index.html
-- Live Site URL: https://eozw6h.csb.app/
+- Solution URL: https://codesandbox.io/s/great-firefly-yk0u5p?file=/index.html:0-4019
+- Live Site URL: https://yk0u5p.csb.app/
 
 ### Built with
 
@@ -30,6 +30,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 - https://developer.mozilla.org/en-US/
 - https://css-tricks.com/
+- https://www.w3schools.com/
 
 ## Author
 
